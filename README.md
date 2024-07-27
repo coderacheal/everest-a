@@ -103,7 +103,7 @@ Example command:
 
 ```sh
   cd everest
-  gem install
+  bundle install
 ```
 
 ### Usage
