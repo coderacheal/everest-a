@@ -52,10 +52,12 @@ gem 'image_optim'
 
 gem 'carrierwave'
 
-# gem 'emoji-picker'
-# gem 'emojionearea-rails'
+# gem 'ovirt-engine-sdk'
+# for cloude storage management
+gem 'fog'
 
-# gem 'emojione'
+#configuring AWS S3 bucket
+gem 'aws-sdk-s3' 
 
 # Use Sass to process CSS
 # gem "sassc-rails"
